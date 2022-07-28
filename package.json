@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is a test nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrtaboraman/nodejs.git"
+  },
+  "author": "jrtaboraman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrtaboraman/nodejs/issues"
+  },
+  "homepage": "https://github.com/jrtaboraman/nodejs#readme"
+}
